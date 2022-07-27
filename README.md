@@ -1,2 +1,1 @@
-# os-onboarding
-onlyspitters stripe onboarding
+## Infosite/introduction 
